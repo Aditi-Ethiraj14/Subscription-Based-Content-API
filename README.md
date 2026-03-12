@@ -1,6 +1,21 @@
 # Subscription-Based Content API
 
-A production-ready REST API built with **Python + Flask + PostGresSQLite** that enforces subscription-based access control, simulates payment processing, and provides full activity logging.
+A production-ready REST API built with **Python + Flask + PostgresSQL Lite** that enforces subscription-based access control, simulates payment processing, and provides full activity logging.
+
+---
+
+## Working Demo of Backend Running and Testing Locally on Postman
+
+📄 This document contains:
+
+- Backend server running screenshots
+- API testing on Postman
+- Request and response examples
+- Steps to test locally
+
+You can view the backend testing steps and screenshots here:
+
+🔗 [Open the Working Demo Document](https://docs.google.com/document/d/1YQ73RYkg3l17QTMxbltnBztctFdQmPa2wBmEO0VG30s/edit?usp=sharing)
 
 ---
 
@@ -16,14 +31,6 @@ A production-ready REST API built with **Python + Flask + PostGresSQLite** that 
 | Activity logging | Every access logged with IP, user-agent, status code |
 | Admin dashboard | View logs, list users, change roles |
 | CSV export | Monthly usage reports & raw log export |
-
----
-
-## Working Demo of Backend Running and Testing Locally on Postman
-
-You can view the backend testing steps and screenshots here:
-
-🔗 [Open the Working Demo Document](https://docs.google.com/document/d/1YQ73RYkg3l17QTMxbltnBztctFdQmPa2wBmEO0VG30s/edit?usp=sharing)
 
 ---
 
