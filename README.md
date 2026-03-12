@@ -19,6 +19,14 @@ A production-ready REST API built with **Python + Flask + PostGresSQLite** that 
 
 ---
 
+## Working Demo of Backend Running and Testing Locally on Postman
+
+You can view the backend testing steps and screenshots here:
+
+🔗 [Open the Working Demo Document](https://docs.google.com/document/d/1YQ73RYkg3l17QTMxbltnBztctFdQmPa2wBmEO0VG30s/edit?usp=sharing)
+
+---
+
 ## Quick Start
 
 ### 1. Prerequisites
